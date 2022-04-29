@@ -1,4 +1,4 @@
-
+# Simple shiny app
 library(shiny)
 # Define UI ----
 wfarm <- base64enc::dataURI(file="www/UKwindfarm.png", mime="image/png")
